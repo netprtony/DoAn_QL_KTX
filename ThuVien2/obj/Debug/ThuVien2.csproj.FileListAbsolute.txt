@@ -1,0 +1,4 @@
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\ThuVien2\obj\Debug\ThuVien2.csproj.AssemblyReference.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\ThuVien2\obj\Debug\ThuVien2.QuanLy_NoiQuy.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\ThuVien2\obj\Debug\ThuVien2.csproj.GenerateResource.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\ThuVien2\obj\Debug\ThuVien2.csproj.CoreCompileInputs.cache
