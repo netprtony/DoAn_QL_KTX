@@ -1,0 +1,56 @@
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.dll
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.pdb
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.dll
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.pdb
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.GenerateResource.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.DataGV_DS_Phong.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.DataGV_DS_Phong.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.GenerateResource.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.DataGV_DS_Phong.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.GenerateResource.cache
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.DataGV_DS_Phong.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.GenerateResource.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.DataGV_DS_Phong.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.GenerateResource.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.DataGV_DS_Phong.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.GenerateResource.cache
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\bin\Debug\Control.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.DataGV_DS_Phong.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.GenerateResource.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\Control\obj\Debug\Control.csproj.AssemblyReference.cache
