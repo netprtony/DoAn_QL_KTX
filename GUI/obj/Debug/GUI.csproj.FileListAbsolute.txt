@@ -1,0 +1,426 @@
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe.config
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.pdb
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.exe
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.pdb
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Guna.UI2.dll
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form1.resources
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormMain.resources
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.dll
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.pdb
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.dll
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.pdb
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Login.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe.config
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Guna.UI2.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien1.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien1.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll.config
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form1.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormMain.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Login.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.exe
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNoiQuy.resources
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyTrangThietBi.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe.config
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Guna.UI2.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll.config
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form1.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormMain.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Login.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNoiQuy.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyTrangThietBi.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.exe
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinCaNhan.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThanhToanPhong.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.LapThe.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_YeuCauSuaChua.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyDichVu.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll.config
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormNV_TuyenSinh.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_NV_KTcs.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeDoanhChi.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeThu.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_TrangChu.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.DangKyLuuTru.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.DangKyLuuTru.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form1.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormMain.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormNV_TuyenSinh.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_NV_KTcs.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_TrangChu.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.LapThe.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Login.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyDichVu.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNoiQuy.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyTrangThietBi.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThanhToanPhong.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeDoanhChi.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeThu.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinCaNhan.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_YeuCauSuaChua.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.exe
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Frm_ChiTietPhong.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_Phong.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinLuuTru.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinSinhVien.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.XepPhong.resources
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll.config
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe.config
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Guna.UI2.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll.config
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.xml
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll.config
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe.config
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Guna.UI2.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll.config
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.xml
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.DangKyLuuTru.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form1.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormMain.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormNV_TuyenSinh.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Frm_ChiTietPhong.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_NV_KTcs.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_TrangChu.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.LapThe.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Login.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_Phong.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyDichVu.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNoiQuy.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyTrangThietBi.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThanhToanPhong.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeDoanhChi.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeThu.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinCaNhan.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_YeuCauSuaChua.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinLuuTru.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinSinhVien.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.XepPhong.resources
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.exe
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Frm_ChiTietPhong.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_Phong.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinLuuTru.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinSinhVien.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.XepPhong.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll.config
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe.config
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Guna.UI2.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll.config
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.DangKyLuuTru.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form1.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormMain.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormNV_TuyenSinh.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Frm_ChiTietPhong.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_NV_KTcs.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_TrangChu.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.LapThe.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Login.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_Phong.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyDichVu.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNoiQuy.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyTrangThietBi.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThanhToanPhong.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeDoanhChi.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeThu.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinCaNhan.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_YeuCauSuaChua.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinLuuTru.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinSinhVien.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.XepPhong.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.exe
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNhanVien.resources
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNhanVien.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyThongBao.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.BaoCao.resources
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form_KT_QL_HD.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll.config
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe.config
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.exe
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\GUI.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Guna.UI2.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Control.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.MachineLearning.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Math.Core.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Accord.Statistics.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DTO.dll.config
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\EPPlus.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\itextsharp.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.OfficeChart.Base.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\ThuVien.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\zxing.presentation.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\DAL.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.BaoCao.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.DangKyLuuTru.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form1.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormMain.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.FormNV_TuyenSinh.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Form_KT_QL_HD.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Frm_ChiTietPhong.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_NV_KTcs.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.From_TrangChu.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.LapThe.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Login.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_Phong.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyDichVu.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNhanVien.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyNoiQuy.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyThongBao.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QuanLyTrangThietBi.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThanhToanPhong.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeDoanhChi.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongKeThu.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinCaNhan.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.QL_YeuCauSuaChua.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinLuuTru.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.ThongTinSinhVien.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.XepPhong.resources
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.exe
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\bin\Debug\BLL.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\GUI\obj\Debug\GUI.csproj.Up2Date
