@@ -1,0 +1,99 @@
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.dll
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.pdb
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.dll
+D:\HocKi 7\DoAnChuyenNganh\DoAn_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.pdb
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll.config
+D:\HocKi 7\DoAnChuyenNganh\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll.config
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.pdb
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll.config
+D:\DoAnChuyenNganh\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.pdb
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll.config
+D:\HocKi 7\Web_KTX\DACN (5)\DACN (4)\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll.config
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.pdb
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.dll.config
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.MachineLearning.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.Core.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Statistics.dll
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.MachineLearning.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.Core.xml
+D:\DACN_Gop\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Statistics.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.dll.config
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.MachineLearning.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.Core.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Statistics.dll
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.MachineLearning.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.Core.xml
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Statistics.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.dll.config
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DAL.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.MachineLearning.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.Core.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Statistics.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.MachineLearning.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Math.Core.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\Accord.Statistics.xml
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.pdb
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\bin\Debug\DTO.dll.config
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.dll
+D:\DACN2\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.pdb
+D:\DACN\DACN_QL_KTX\DACN_QL_KTX\DoAn_QL_KTX\DAL\obj\Debug\DAL.csproj.CopyComplete
